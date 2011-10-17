@@ -6,5 +6,5 @@ For the moment, this site will contain a "Captain's Log": a blog of daily, quite
 
 Eventually I expect to put more corporate documents here.
 
-[[!inline pages="page(./log/*)  show="10"
+[[!inline pages="page(./log/*) and !*/Discussion" show="10"
 actions=yes rootpage="log"]]
