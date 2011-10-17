@@ -3,3 +3,6 @@ This site exists to provide more transparency for the OpenHatch organization.
 Right now, there is a for-profit corporation that is closing down. As discussed at [this blog post](https://openhatch.org/blog/2011/openhatch-gains-full-time-project-lead-transitioning-into-a-non-profit/), Asheesh Laroia is working on OpenHatch "full-time" and we are creating a non-profit.
 
 For the moment, this site will contain a "Captain's Log": a blog of daily, quite-short updates by Asheesh on what happened in day.
+
+[[!inline pages="page(./log/*) and !*/Discussion" show="10"
+actions=yes rootpage="log"]]
