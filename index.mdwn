@@ -4,7 +4,7 @@ Right now, there is a for-profit corporation that is closing down. As discussed 
 
 For the moment, this site will contain a "Captain's Log": a blog of daily, quite-short updates by Asheesh on what happened in a day. They're quite informal.
 
-Eventually I expect to put more corporate documents here.
+Eventually I expect to publish OpenHatch's corporate documents here.
 
 [[!inline pages="page(./log/*) and !*/Discussion" show="10"
-actions=yes rootpage="log"]]
+actions=no rootpage="log"]]
