@@ -1,0 +1,11 @@
+Captain's log, supplemental
+
+* Answered two people who had questions about why bug import wasn't working
+* Deleted some accounts based on people having emailed hello@openhatch requesting it
+* Talked with Devin Balkind <http://opensourceecology.org/wiki/Devin_Balkind> who is part of Occupy Wall Street and wants to help me connect people excited about contributing to open source with projects. Talking with him was mega fun.
+* Ran into Jason Alonso, whose experience with http://learningu.org/ might be interesting for OpenHatch.
+* Thought about my need for health insurance. I expect to look into Massachusetts' offerings shortly.
+* Failed to finish following up with a potential sponsor and Julie Deroche because of abruptly discovering poor time planning and having to rush to a Boston Python user group organizers' meeting.
+* Sent a version of Jessica's Boston Python Workshop grant proposal to the outreach + education committee within Python Software Foundation. Spent some time fine-tuning an introduction that explains the grant and how it has progressed so far.
+* Made a whole slew of "final" changes to a Boston Python Workshop site. Happy to ship it pending answers to my questions that I asked on Events@.
+* Worked again at Alex Ose's office. Was good, but maybe slightly distracting to have the coworkers there. Probably about the same as a coffee shop, though; more distracting but more comfy than Media Lab.
