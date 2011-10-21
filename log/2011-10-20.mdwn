@@ -1,0 +1,6 @@
+Captains log, supplemental
+
+* I located the meeting notes from Jessica McKellar's and my conversation with Julie at Mozilla. I wrote them up in an e-mail I sent to the events mailing list.
+* I located and found the meeting minutes from the past to IRC weekly meeting and put them online. I e-mailed them to OH-Dev.
+*  I pushed the funding  proposal along that Jessica started on the Python software foundation Board mailing list. I read the information about the structure of the outreach and education committee, and set some deadlines for discussion and voting.
+*  Also, today was my birthday. My hands hurt a little bit, and I made it a little bit of a short day.
