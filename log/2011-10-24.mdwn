@@ -1,0 +1,8 @@
+Captain's log, October 24, 2011
+
+* Spoke with a potential OpenHatch contributor on IRC
+* Review the patch that was waiting from a new contributor
+* Began to review Karen's front page changes
+* Wrote a job description to explain to prospective board members but it would mean; asked Deb to review this
+* Removed one account for a user who wanted it deleted
+* Spent some time meeting with Jessica McKellar to discuss changes to the Boston Python workshop website
