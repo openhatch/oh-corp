@@ -2,7 +2,7 @@ Captain's log, supplemental
 
 * Wrote a belated captain's log post for yesterday
 * Emailed meetings from my meeting with jesstess last night to Events list
-* Redesigned the proposed BPW site
+* Redesigned the proposed BPW site, which was a very interesting learning experience (in a positive way) about CSS
 * Half-done with changes requested by jesstess on BPW site, content-wise
 * Got a "pong" from our corporate lawyer, who has some questions I'll have to answer once he prepares them for me toward the end of the week
 * Emailed the outreach-and-education committee and got some more positive feedback. I guess we'll do voting tomorrow.
