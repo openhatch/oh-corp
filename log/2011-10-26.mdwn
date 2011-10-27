@@ -1,0 +1,5 @@
+Captain's log, supplemental
+
+* Finished (to 1.0 level) Boston Python Workshop website. I'm very happy with it!
+* Began the voting for PSF grant for Boston Python Workshop.
+* Spoke with Shannon at length about OH front page redesign and Boston Python Workshop site. Got some great feedback (it's on paper at the moment).
