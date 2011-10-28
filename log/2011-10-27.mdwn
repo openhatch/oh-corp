@@ -1,0 +1,7 @@
+Captain's log, supplemental
+
+* Spoke with corporate lawyer, who sent me a 1023 questionnaire
+* Fixed all test failures on the current OpenHatch code
+* Spoke at length with a prospective new contributor (on #openhatch) who might improve the bug import code; I extracted the bugimporter code
+* Monitored voting process for BPW funding
+* Upgraded site to Django 1.3
