@@ -1,5 +1,10 @@
 Captain's log, supplemental
 
+In a local branch, I'm working on improving the bug import code:
 * Fixed a number of crashes in the bug import code
-* Monitored voting process for BPW grant; pinged one committee to make sure he/she puts in a vote
+* I removed my old Bug.bug_tracker attribute and am trying to normalize toward Bug.tracker ala pythonian4000
 * Contributed a bit to the OH-Dev discussion of the new, extracted bug importers
+
+Generally:
+
+* Monitored voting process for BPW grant; pinged one committee to make sure he/she puts in a vote
