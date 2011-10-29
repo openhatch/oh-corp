@@ -1,0 +1,5 @@
+Captain's log, supplemental
+
+* Fixed a number of crashes in the bug import code
+* Monitored voting process for BPW grant; pinged one committee to make sure he/she puts in a vote
+* Contributed a bit to the OH-Dev discussion of the new, extracted bug importers
