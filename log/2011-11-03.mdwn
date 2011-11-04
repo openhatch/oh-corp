@@ -1,0 +1,25 @@
+Captain's log, supplemental
+
+This log covers the first week of November, up to
+and including Thursday, November 3.
+
+I was traveling and didn't get as much work done as I expected.
+Some things that did happen.
+
+Weekend, plus Monday, October 31:
+
+* Made lots of changes to the bug import code to support custom bug parser code.
+* Pushed this and got some feedback from Jack Grigg.
+
+Tuesday, November 1:
+
+* Discussed PyStar+BPW collaboration with Jessica McKellar.
+
+Wednesday, November 2:
+
+* Met with Jackie of PyLadies DC and got a sense of what the group is like. They are planning to run a BPW-esque event in mid-January at the earliest. I learned a lot about libraries from Jackie, and she was patient with me as I nailed down the rest of my travel schedule. I talked at length about BPW and what makes it successful. She wondered what would happen if companies request smaller, private BPW-esque workshops.
+
+Thursday, November 3:
+
+* Made lots of changes to the bug import code to make it more testable.
+* Officially delayed the 0.11.10 release until Sun Nov 6.
