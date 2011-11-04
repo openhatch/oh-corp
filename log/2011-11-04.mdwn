@@ -1,0 +1,13 @@
+Captain's log, stardate 1111.04
+
+Organization:
+
+* Talked with Deborah Nicholson about a job description for board members, how to invite them, and about different possible board members.
+* Received an email from a prospective anonymous donor for campus-based outreach events that I was taking too long to get back in touch with him and that he put his money elsewhere (which naturally I'm sad about).
+* Gave some feedback to Karen about an outreach-related talk for Wikimedia, where she'll mention OpenHatch.
+
+Code:
+
+* Added more tests to cover the bug import code, and added the KDE bug tracker to the live site's Bugzilla list.
+* Things are looking really good for the async bug import code, although the customs_twist process seemed to be stuck in a CPU-heavy loop without making any progress toward the end of its run. (Reasonable next step: Run it in a profiler next time.)
+* Began to diagnose problem with Plasma Active within the new bug import regime.
