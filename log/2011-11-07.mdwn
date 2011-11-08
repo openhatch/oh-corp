@@ -10,7 +10,7 @@ Today:
 
 * Woke up later than I wanted to.
 * Reviewed a patch by viv in the tracker.
-* Reviewed (at length) Jessica McKellar's suggested changes for bostonpythonworkshop.com and planned blog post for pyfound
+* Reviewed (at length) Jessica McKellar's suggested changes for bostonpythonworkshop.com and planned blog post for pyfound. Adjusted image sizes, and shipped her BPW website changes.
 * Added a note of deprecation to the old bugtracker import code, and removed most references to it.
 * Spent some time writing up notes for how people can help, before the Project Night. This should come in handy for later wannabe-contributor roundups.
 * At Python Project Night, I worked a few people through getting OH dev setups ready. It was, basically, a tragic flop. But I learned that 1) it sucks still, and 2) it can be fixed (if we use more pure-Python dependencies, and gracefully give error messages when things won't work (rather than make sure that buildout makes sure everything will work).
