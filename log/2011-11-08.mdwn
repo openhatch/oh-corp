@@ -1,0 +1,7 @@
+Captain's log, November 8, 2011
+
+* I tagged and released 0.11.10. I also got a chance to try the "git flow" tool.
+* I believe I am done working through IRS and corporate paperwork. I submitted our form 1023 questionnaire to our lawyer, as well as our articles of incorporation and bylaws. The only thing left to decide is how often (and when) we meet.
+* Board members have agreed to be on the board, and I sent an introductory email to it.
+* I briefly helped someone (who I met yesterday at Project Night) find a good python.org bug to wokr on.
+* Woke up at a reasonable time, which I enjoyed greatly.
