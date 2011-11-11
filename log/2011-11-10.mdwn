@@ -9,3 +9,4 @@ Captain's Log, 2011-11-10
 * Began to work (locally) on moving the dependencies for the code into a vendor/ directory
 * Set proposed 0.11.10 goals on the wiki
 * Further-helped one prospective OpenHatch contributor on IRC
+* Mumbled frustratedly that Gitorious lost my SSH key, and wondered aloud on IRC if we should switch to Github
