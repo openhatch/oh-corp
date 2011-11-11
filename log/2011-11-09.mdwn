@@ -1,0 +1,11 @@
+Captain's Log, 2011-11-09
+
+* Worked from the Media Lab, which was nice.
+* Spent a substantial amount of time crushing INBOX down to 29 messages, which was thrilling.
+* In the process, found some accounts that wanted to be deleted, closed the loop, and did so.
+* Adjusted the default settings in the OpenHatch code to use sqlite3 instead of MySQL by default.
+* Decided that dev environment setup process is too absurdly arduous and that it can be dramatically simpler.
+* Spent some time discussing the "vendor"-directory strategy with Will Kahn-Greene, and decided to use that instead of buildout or virtualenv.
+* Spent some time helping prospective contributors get dev environments set up. Part of this involved shipping the sqlite-ification.
+* Updated all the bugs with the 0.11.10 milestone tag.
+* Polled the mailing list and IRC visitors on a time this weekend for an OpenHatch sprint.
