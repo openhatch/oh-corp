@@ -1,0 +1,11 @@
+Captain's Log, 2011-11-10
+
+* Gave some small further feedback to Jessica's proposed post for pyfound
+* Planned the actual time+date of the OpenHatch sprint
+* Asked for funding from Python Sprints; they said yes!
+* Sent conflict of interest document to Board, where everyone agreed to it
+* Declared first board meeting time
+* Began to identify the tests that are failing with sqlite3 as the default DB
+* Began to work (locally) on moving the dependencies for the code into a vendor/ directory
+* Set proposed 0.11.10 goals on the wiki
+* Further-helped one prospective OpenHatch contributor on IRC
