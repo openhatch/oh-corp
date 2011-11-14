@@ -1,0 +1,12 @@
+Captain's Log, Friday, November 11, 2011
+
+I mostly focused today on fixing the site to work without people installing
+binary dependencies or a database server like MySQL. I continued
+that work into the weekend (which I can say because this Captain's Log is
+written retroactively).
+
+* At the suggestion of Michael Stone, I made the vendor/ directory *not* use submodules.
+* I fixed the tests that were failing with sqlite3.
+* I asked a friend if we can get access to Harvard wifi for the impending OpenHatch sprint on Sunday; sadly it didn't work.
+* Sent a copy of our IRS 1023 questionnaire to the OH-Board list.
+* Spent a long time talking with Deborah Nicholson about fundraising for the OpenHatch organization. Quick summary:
