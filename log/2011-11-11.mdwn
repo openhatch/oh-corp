@@ -9,4 +9,4 @@ written retroactively).
 * I fixed the tests that were failing with sqlite3.
 * I asked a friend if we can get access to Harvard wifi for the impending OpenHatch sprint on Sunday; sadly it didn't work.
 * Sent a copy of our IRS 1023 questionnaire to the OH-Board list.
-* Spent a long time talking with Deborah Nicholson about fundraising for the OpenHatch organization. Quick summary:
+* Spent a long time talking with Deborah Nicholson about fundraising for the OpenHatch organization. I have paper notes but haven't digitized them yet; I intend to send them to OH-Board.
