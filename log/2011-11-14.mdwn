@@ -10,5 +10,6 @@ Captain's Log, November 14, 2011
 * Published a short blog post with 0.11.10 release notes
 * Discussed with Karen Rustad if we might move the repository to Github, and it is looking increasingly likely. She pushed a copy of the repo there. We agreed it'd be nice to keep Gitorious in sync.
 * Talked with Dharmishta Rood about static website generation, and learned about a convenient jQuery image slider plugin that might be good to use in the Boston Python Workshop site
+* Spent some time helping a Boston Python person get a dev environment for Python (the interpreter) set up so she could hack on a python.org ticket
 
 It was a reasonably productive day, but I'm getting behind on the P2PU course, crucially.
