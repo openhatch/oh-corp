@@ -1,0 +1,14 @@
+Captain's Log, November 14, 2011
+
+* Published 0.11.07 release notes, backdated to the past
+* On the blog, I hit "publish" on Karen's jack-o-lantern post (which sadly "missed its schedule" within WordPress)
+* Dramatically cleaned up the "Getting started with the OpenHatch code" wiki page
+* I (and Jessica) spent some time discussing misconceptions about OpenHatch with Jennifer Redman (jenred), who was at the Grace Hopper convention
+* Emailed lawyer Jonas with a ping re: non-profit paperwork; he gave me a pong and said he'd be in touch soon.
+* Added the Dreamwidth Bugzilla bug tracker to the new system, and cleaned up some spam on the old bug tracker requests, and made sure its bugs got imported
+* Spent *hours* talking with glyph (of Twisted) about how we can use Twisted better within OpenHatch; this was an extremely positive conversation
+* Published a short blog post with 0.11.10 release notes
+* Discussed with Karen Rustad if we might move the repository to Github, and it is looking increasingly likely. She pushed a copy of the repo there. We agreed it'd be nice to keep Gitorious in sync.
+* Talked with Dharmishta Rood about static website generation, and learned about a convenient jQuery image slider plugin that might be good to use in the Boston Python Workshop site
+
+It was a reasonably productive day, but I'm getting behind on the P2PU course, crucially.
