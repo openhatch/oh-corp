@@ -1,0 +1,6 @@
+Captain's log for Tuesday, November 15, 2011
+
+* Explored the P2PU website, and created the curriculum for the course
+* Fixed our automatic tester (Hudson) so it runs the tests the new (manage.py) way
+* Fixed some server cron jobs that were sending me (every 10 min) DeprecationWarnings
+* Had the chance to talk with glyph some more about why people are confused about Twisted.
