@@ -1,0 +1,6 @@
+Captain's log, Wednesday, November 16, 2011
+
+* Spent hours and hours fixing our test suite to run on Windows, which now finally mostly works.
+* Asked Karen to write up the minutes from the OpenHatch board meeting last weekend.
+* Spent some time in bed because on Tuesday night I twisted it. It seems to have mostly healed by the end of Wednesday.
+* Traded emails with Katy and Stormy on the topic of mentorship programs in open source.
