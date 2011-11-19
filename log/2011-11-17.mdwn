@@ -1,0 +1,8 @@
+Captain's Log, November 17
+
+* Spent lots of time fixing a low-disk-space condition on the main OpenHatch site (kudos to Jessica for noticing the site was down).
+* Removed old "memlogs" system that checked which process(es) were using up the most RAM every 5 minutes
+* Fixed the bug tracker and Postfix repeatedly until both were actually happy
+* Wrote a brief introduction to the P2PU course on the course page
+* Mentored Jilly on IRC with regard to how the new bugimporters (vs. bugtrackers) system works
+* Discovered that I did not understand how "Moderated Signups" work on P2PU, which led me to delay publicizing the course
