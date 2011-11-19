@@ -1,0 +1,6 @@
+Captain's Log, Friday November 18
+
+* Discussed Ada Initiative chat with Jessica McKellar
+* Emailed the P2PU-dev list about the confusing Moderated Signup issue, after spending a while reading the source code to Lernanta and not quite understanding the problem
+* Discussed with Jessica which cities would be good outreach targets for the grant we got from PSF
+* (Attempted to?) Move GNOME Bugzilla into the new bugimporters framework
