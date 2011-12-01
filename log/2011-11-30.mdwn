@@ -1,0 +1,16 @@
+Captain's Log, November 30, 2011
+
+Today, I:
+
+* Added a GeSHI syntax highlighting extension to the OpenHatch wiki
+* Created a tentative plan for the OpenHatch sprint this weekend
+* Pinged Karen re: missions review
+* Decided (but didn't announce, due to running out of time) that the release should be delayed until post-sprint
+* Moved a bunch of bug trackers out of mysite/customs/bugtrackers/* into the database (fixing some bugs in the process)
+* Came up with a plan (but did not implement it) for adding antispam to OpenHatch project pages (long story short: use a Bayesian database, since nothing off-the-shelf seems to have reasonable accuracy on the spam we get)
+* Handled the mailman moderation queue for OH-Dev and Events
+* Updated the move-to-Github thread with info from Gitorious, with gitorious's permission
+* Reviewed modified Articles of Incorporation provided by our lawyer, requested two changes, and asked him to file them (!!!)
+* Found a (hopefully) good first bug for jtruant on IRC
+* Added a note to campus.openhatch.org about the MIT Open Source Workshop
+* Gave Jessica McKellar a virtual high-five for her work forcefully re-opening the RISE application and submitting our application
