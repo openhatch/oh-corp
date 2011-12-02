@@ -1,0 +1,8 @@
+Captain's log, Fri, Dec 2, 2011
+
+* Began a thread comparing us with another similar non-profit on OH-Board
+* Announced the dev meeting to OH-Dev
+* Removed all known spam on the site, and published the tools I used to do this in a report to OH-Dev
+* Suggested a blog post idea to OH-Publicity
+* Did a bunch of curriculum planning for Open Source Comes to Campus on the wiki
+* Discussed a possible collaboration with Wikimedia Foundation with Sumana
