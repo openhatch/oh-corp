@@ -1,0 +1,9 @@
+Captain's log, Dec 1 2011
+
+* Emailed the OH-Dev list with a plan for the sprint
+* Officially delayed the release
+* Removed mysite/customs/bugtrackers/* except launchpad
+* Added many more bug trackers to the web UI
+* Removed lots of spam accounts and all their data, and wrote some simple but extremely useful tools to help do that
+* Added a code syntax highlighting extension to the wiki
+* Fixed wiki image uploads (some things were owned by www-data that should have been owned by "wiki")
