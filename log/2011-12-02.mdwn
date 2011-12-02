@@ -6,3 +6,4 @@ Captain's log, Fri, Dec 2, 2011
 * Suggested a blog post idea to OH-Publicity
 * Did a bunch of curriculum planning for Open Source Comes to Campus on the wiki
 * Discussed a possible collaboration with Wikimedia Foundation with Sumana
+* Noticed that the site was really slow, and SSH'd in to fix the culprit, which was customs_daily_tasks chewing up too much RAM. Stopped and started it.
