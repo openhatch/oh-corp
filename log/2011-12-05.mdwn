@@ -1,0 +1,8 @@
+Captain's log, Dec 5
+
+* Relayed a question from our lawyer to our board members, which should be the last item before we file our articles of incorporation
+* Cleaned out all the bugs in the milestone
+* Gave more feedback on the new Launchpad bug importer by armooo
+* Tagged and released 0.11.11
+
+I seemed to have a cold, so I took a bit of a sick day this morning.
