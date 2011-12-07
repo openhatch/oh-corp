@@ -1,0 +1,9 @@
+Captain's Log, December 6, 2011
+
+* Emailed OH-Dev about the most recent sprint
+* Adjusted pythonsprints.com blog post so that the image references for the recent OpenHatch sprint don't point to my personal server
+* Suggested some website changes for the Boston Python Workshop site that give more of a sense of freshness
+* Traded brief emails with FSF about a possible GNU and/or Emacs hackathon
+* Finished a draft of the Saturday curriculum "Open Source to Campus"
+* Added some more information to the "Getting the word out" page
+* Blogged about the 0.11.11 release
