@@ -1,0 +1,8 @@
+Captain's log, Wed 2011-12-07
+
+* Asked OSU OSL for storage space for some static files
+* Wrote up minutes from a meeting with FSFer and proposed more concrete steps for a GNU hackathon
+* Wrote up a monthly meeting plan based on Karen's suggestions
+* Began to identify good bugs and goals for 0.11.12
+* Wrote up a sketch of how Sundays will work within the "Open Source Comes to Campus" framework
+* Published yesterday's captain's log, oops.
