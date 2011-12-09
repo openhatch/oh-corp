@@ -1,0 +1,13 @@
+Captain's log, 2011-12-09
+
+Today I:
+
+* Read and reflected on the Ada Initiative's montly chat's IRC logs
+* Asked John Sullivan for contact info for a good Emacs hacker in the SF Bay Area who might be a great contact for our GNU hackathon
+* Discussed incorporation status (status: incorporated!) with Jonas
+* Created a draft reblog about the pyfound blog post about the Boston Python Workshop
+* Suggested that bpw-staff people have a smaller, earlier get-together to review the curriculum
+* Checked on travel reimbursement from KDE e.V. for the Desktop Summit
+* Talked more with Jordan at OSL about hosting our snapshots
+
+Also I find myself in Philadelphia.
