@@ -1,0 +1,6 @@
+Captain's log, Dec 13, 2011
+
+* Added spamassassin support to linode.openhatch.org mailman, based on spam appearing on the bpw-staff list
+* Adjusted DNS so that more sites are on the new Static site hosting plan
+* Worked further on moving Location data into its own table
+* Re-reviewed the Windows missions instructions and made some small tweaks
