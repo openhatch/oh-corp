@@ -1,0 +1,7 @@
+Captain's log, November 14, 2011
+
+* Worked on turning Windows text into patches for /missions/. Not quite ready to ship, but nearly there.
+* Fixed issue636
+* Realized my error with using "git flow" and emailed OH-Dev to say so. Got some positive feedback on IRC from willkg
+* Answered some "How do you lead OpenHatch?" questions from a student of Matt Jadud
+* Found people to test possible fixes for the Mac tar mission bug (issue616)
