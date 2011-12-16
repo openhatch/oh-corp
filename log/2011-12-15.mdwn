@@ -1,0 +1,7 @@
+Captain's log, December 15, 2011
+
+* Answered questions from Karen about longevity of OpenHatch, and turned it to a discussion on OH-Board
+* Finished converting Windows mission description info into patches for /missions/
+* Continued work on training missions HOWTO
+* Discussed the possibility of using Bocoup Loft's open source desk, but alas, the program has closed.
+* Discussed non-profit free software foundations with some extremely friendly jQuery people, one of whom is an enthusiastic support of Open Source Comes to Campus.
