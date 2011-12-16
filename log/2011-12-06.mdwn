@@ -6,4 +6,5 @@ Captain's Log, December 6, 2011
 * Traded brief emails with FSF about a possible GNU and/or Emacs hackathon
 * Finished a draft of the Saturday curriculum "Open Source to Campus"
 * Added some more information to the "Getting the word out" page
+* Briefly Identitweeted thanking the FSF for mentioning us in a cover letter of their monthly newsletter
 * Blogged about the 0.11.11 release
