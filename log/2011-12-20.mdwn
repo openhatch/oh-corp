@@ -1,0 +1,8 @@
+Captain's log, December 20, 2011
+
+(Note: I'm in San Francisco until Thursday, then on-and-off next week.)
+
+* Spent 2 hours in the Wikimedia Foundation office talking excitedly with two of their tech staff about possible collaborations.
+** I took notes and will send a note to OH-Board with more details.
+* Planned meetings with other people in SF who might be helpful or interesting to talk with.
+* Fixed an out-of-disk-space condition (cause: Roundup's log was 2.3 gigabytes). 
