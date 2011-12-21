@@ -2,7 +2,16 @@ Captain's log, December 20, 2011
 
 (Note: I'm in San Francisco until Thursday, then on-and-off next week.)
 
+(The following took place Monday, Dec 19:)
+
 * Spent 2 hours in the Wikimedia Foundation office talking excitedly with two of their tech staff about possible collaborations.
 ** I took notes and will send a note to OH-Board with more details.
 * Planned meetings with other people in SF who might be helpful or interesting to talk with.
 * Fixed an out-of-disk-space condition (cause: Roundup's log was 2.3 gigabytes). 
+
+(The following took place Tue, Dec 20:)
+
+* Discussed site reliability with Karen Rustad
+* Spent a few hours adjusting /search/ to be speedier. Particularly, now it does not generate suggested searches. This can be re-enabled with a settings.py option. It is still not quite fast enough.
+* Discussed the history of OpenHatch with an old friend, Ben Lowenstein, who is now working on a web-based language learning project.
+* Discussed fundraising with Allison formerly of CC's fundraising team.
