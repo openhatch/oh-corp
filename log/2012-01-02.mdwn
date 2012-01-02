@@ -1,0 +1,12 @@
+Captain's log, Jan 2, 2012
+
+Today, I:
+
+* Sent an announcement about an OpenHatch sprint this weekend
+* Came up with a reasonable plot for the tar mission
+* Came up with a reasonable plot for the diff/patch mission
+* Sent a short note to OH-Board about financial questions we need to answer
+* Reviewed a missions bug with a patch (and deployed it)
+* Handled a few other bugs in the training missions
+* Got someone (xxv) to try the git training mission and file some bugs
+* Invited someone to try organizing the Starling Bounties
