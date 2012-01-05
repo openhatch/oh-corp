@@ -10,3 +10,4 @@ Captain's log, January 4, 2012
 * Asked Sarah+Sarah of Railsbridge to give a poster at PyCon (-:
 * Drafted (not yet sent) an email to OH-Dev asking for help on how to make the JSON data export for /people/ snappier.
 * Drafted (not yet sent) an email to OH-Dev asking for style guidance w/r/t controllers.py vs. helpers.py, etc.
+* Installed python-openssl on linode2, in preparation for moving customs_twist to it.
