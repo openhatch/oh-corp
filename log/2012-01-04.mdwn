@@ -1,0 +1,12 @@
+Captain's log, January 4, 2012
+
+* Had lunch with Deb.
+* Worked for a bunch of hours (way too many, probably) on moving the location data out of profile.Person into a new model, profile.Location. Probably another 2-4 hours and it'll be done.
+* Came up with some good probable micro-optimizations for the location data API view
+* Discovered that, fundamentally, the location data API view should use one (maybe two) database queries, and if we can do that, we can make it load very fast.
+* Fixed some bugs in mysite.customs.* which are discovered by Hudson because has lxml installed now.
+* Reviewed Jessica's post inviting first-time poster submitters to submit to PyCon.
+* Asked the planet.python.org maintainers to add our blog's 'python' tag feed.
+* Asked Sarah+Sarah of Railsbridge to give a poster at PyCon (-:
+* Drafted (not yet sent) an email to OH-Dev asking for help on how to make the JSON data export for /people/ snappier.
+* Drafted (not yet sent) an email to OH-Dev asking for style guidance w/r/t controllers.py vs. helpers.py, etc.
