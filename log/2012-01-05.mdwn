@@ -1,0 +1,6 @@
+Captain's Log, Jan 5, 2012
+
+* After a few false starts, made the JSON API generation for /people/ much faster. Sent a note to OH-Dev about how.
+** Another 10-100x improvement is probably possible.
+* Spent some time in the morning fixing an Error 500 on the blog by restarting /etc/init.d/php5-fpm and also adding 5-min monitoring for the blog through pingdom.com.
+
