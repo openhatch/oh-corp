@@ -1,0 +1,10 @@
+Captain's log, for Mon 1/9 and Tue 1/10 in 2012
+
+* Finally wrote reasonably solid versions of changes to move lat+long pairs into database, and pushed it.
+* These patches seem to break the test suite under MySQL; will investigate tomorrow.
+* Moved bug crawl to linode2, which should speed up linode.openhatch.org.
+* Wrote estimates of 2012, 2013, and 2014 budgets.
+* Attended Python Project night; worked with Jacquie on another patch (which must be reviewed in short order)!
+* Came up with plan for talks to propose at OSCON and LibrePlanet; discussed panel ideas with Molly de Blanc and Deb.
+* Fixed my personal pingdom notifications account for OpenHatch blog -- it was configured to not report problems anywhere.
+* Noticed bug reported by user in svn training mission; will look into this tomorrow.
