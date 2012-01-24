@@ -1,0 +1,6 @@
+Captain's log, Monday, 2012-01-23
+
+* It's been too long since a Captain's Log.
+* Over the weekend, I finished reviewing the pending patches. I reviewed the most recent awesome patch by Jacquie.
+* Traded emails with a woman at UMD about bringing an Open Source Comes to Campus; she is enthusiastic!
+* Fully-tested the Subversion training mission, based on an Error 500 thread to hello@ openhatch. (It works fine now.)
