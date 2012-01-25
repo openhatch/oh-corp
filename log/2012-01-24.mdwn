@@ -1,0 +1,6 @@
+Captain's log, 2012-01-24
+
+* Write two proposals for LibrePlanet, on the deadline (today)
+* Fixed the daily public data snapshots; discovered that they do not import, for reasons I do not understand at all.
+* Asked jesstess if she'll join the UMD Open Source Comes to Campus event.
+* Yesterday, after I wrote yesterday's log: I talked with Elizabeth Stark about fundraising opportunities for OpenHatch.
