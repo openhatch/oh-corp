@@ -1,0 +1,10 @@
+Captain's log, January 25, 2012
+
+* Sent some quick notes to OH-Publicity: Requesting a monthly newsletter, and listing the two LibrePlanet proposals I submitted.
+* Moved inside.openhatch.org off linode.openhatch.org (onto linode2). This saves a bunch of (precious) disk space.
+* Asked rsync.net if they'd donate free backup storage for us.
+* Asked GPLHost if they'd donate a VM for us.
+* Fixed Google Analytics on openhatch.org. (The problem was that a few weeks ago I accidentally deleted deployment_settings_secret_keys.py, which contained our Google Analytics code. Now that string lives in the public repo.
+* Send email to PyCon booth organizer to find out more about what a sponsor booth entails.
+* Had lunch with Karen Rustad; discussed T-shirts, sponsor booths, and UMD OpenHatch Comes to Campus event.
+* Had dinner with Mike Linksvayer; discussed other possible funders.
