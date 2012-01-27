@@ -1,9 +1,9 @@
 Captain's Log, January 26, 2012
 
-* Configured and ran backups for the OpenHatch linode on rsync.net.
+* Configured and ran backups for the OpenHatch linode on rsync.net because they said "Yes" to donating us space.
 * Discussed T-shirt designs with Karen on IRC.
 * Wrote yesterday's captain's log, oops.
 * Pinged Jen Lindner of Railsbridge, via Twitter, to see if she'll write about Boston Python Workshop
 * Pinged Mike Linksvayer further w/r/t good people to network with
 * Received PyCon booth email; will have to figure out what to do with it.
-
+* Created a VM at GPLHost, which will be where we move some things (Hudson, probably).
