@@ -1,0 +1,7 @@
+Captain's log, January 27, 2012
+
+* Adjusted the backups of linode.openhatch.org to back up the whole filesystem (with some manual exclusions), rather than just part of the filesytem with manual inclusions
+* Created a virtual machine through the gracious donation of GPLHost. Will evaluate how to use it, soon. (Probably good to put there; Hudson.)
+* Spent some time showing our Roundup customizations to miloh of Noisebridge.
+* Started the conversation on some issues in the issue tracker; too many are in state "unread".
+* Began to schedule a meeting with Sameer Verma of SFSU.
