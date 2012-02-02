@@ -14,9 +14,11 @@ Tue, Jan 31, 2012:
 * Was interviewed by a researcher in New Zealand about newcomers' experiences in FLOSS, and my experiences with OpenHatch and other projects.
 * Sent information about our (sadly rejected) RISE grant application to a friend at Google Policy to see if he has any suggestions.
 * Fixed a bug in the Subversion training mission where submitting an empty form would cause an HTTP error
+* Looked into options to pass to duplicity to figure out what is taking up space in our backup jobs.
 
 Mon, Jan 30, 2012:
 
 * Scheduled a lunch with Matt Zimmerman, after much trying
 * Scheduled an evening meeting a friend of a friend who might have advice on fundraising
 * Went to a book mixer in the hopes of finding kindred OpenHatchy spirits. I did find Geoff Schmidt, at least.
+* Adjusted the configuration of logrotate so that our incremental backups take up less space.
