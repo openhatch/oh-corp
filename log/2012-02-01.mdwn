@@ -1,0 +1,22 @@
+Captain's log, February 1, 2012
+
+There haven't been captain's logs for the past few days.
+
+Tue, Feb 1, 2012:
+
+* Spent *ages* fixing the performance of the project page and related things to something reasonable so I can deploy an I-want-to-help handling UI. Arguably done with the performance changes.
+* Tomorrow I can sanity-check the I-want-to-help-handler UI and then push it.
+* Spent a couple of hours catching up with Sameer Verma at SFSU (San Francisco State University). He is enthusiastic about bringing something like OpenHatch Comes to Campus to SFSU.
+* In that process, did a lunch talk and found some bugs on the site; but generally attendees really appreciated the site and our events.
+
+Tue, Jan 31, 2012:
+
+* Was interviewed by a researcher in New Zealand about newcomers' experiences in FLOSS, and my experiences with OpenHatch and other projects.
+* Sent information about our (sadly rejected) RISE grant application to a friend at Google Policy to see if he has any suggestions.
+* Fixed a bug in the Subversion training mission where submitting an empty form would cause an HTTP error
+
+Mon, Jan 30, 2012:
+
+* Scheduled a lunch with Matt Zimmerman, after much trying
+* Scheduled an evening meeting a friend of a friend who might have advice on fundraising
+* Went to a book mixer in the hopes of finding kindred OpenHatchy spirits. I did find Geoff Schmidt, at least.
