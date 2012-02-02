@@ -4,6 +4,7 @@ There haven't been captain's logs for the past few days.
 
 Tue, Feb 1, 2012:
 
+* Planned (and requested) PyCon hotel stay period, finally.
 * Spent *ages* fixing the performance of the project page and related things to something reasonable so I can deploy an I-want-to-help handling UI. Arguably done with the performance changes.
 * Tomorrow I can sanity-check the I-want-to-help-handler UI and then push it.
 * Spent a couple of hours catching up with Sameer Verma at SFSU (San Francisco State University). He is enthusiastic about bringing something like OpenHatch Comes to Campus to SFSU.
