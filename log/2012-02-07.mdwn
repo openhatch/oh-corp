@@ -1,0 +1,8 @@
+Captain's log, Feb 7, 2012
+
+* Write release notes commit log message, and push a git tag with 0.11.12
+* Go through 0.11.12 bugs and move them to future
+* Rename a project (MoinMoin) as per request on IRC
+* Handle UMD Open Source Comes to Campus more: write suggested signup email; update website; created sign-in form
+* Find lodging for self near(ish) UMD
+* Book travel for UMD event
