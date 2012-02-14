@@ -1,0 +1,7 @@
+Captain's log, Feb 13, 2012
+
+* Nearly finished the move to Github. Moved all things related to oh-mainline, including Jenkins/Hudson. The only things left to do are fixing up old repositories that aren't as widely-used, like oh-bpw.
+* Experimented with running OpenHatch on Heroku.com, which almost works. I sent notes about that to OH-Dev, and I sincerely hope someone fixes it.
+* Refreshed the front page redesign patch series to work against current git.
+* Successfully concluded schedule juggling for PyCon talk.
+* Began to create corporate checking account with Digital Federal Credit Union. Got to the point of them doing address verification on me.
