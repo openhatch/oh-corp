@@ -1,0 +1,8 @@
+Captain's log, Wednesday, February 15, 2012
+
+* Discovered that a bug import cron job had gotten stuck; restarted it. This fixed +meta to go from 100% stale to 40% stale
+* Spent most of the day discussing the redesign with Karen, and filing bugs based on our conversation.
+* Merged some patches from Karen on it.
+* (very) Briefly reviewed a blog post by jesstess.
+* Discussed the possiblity of working with a company in Manchester, UK, with Deb.
+* Checked which of my LibrePlanet talks was accepted.
