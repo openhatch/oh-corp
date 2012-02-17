@@ -1,0 +1,5 @@
+Captain's log, Thu, Feb 16, 2012
+
+* Spent most of the day working with Karen on the redesign. Much progress made. Mostly worked on the new /guide/ page that explains the site to project maintainers.
+* Discussed A/B testing with willkg, and got design feedback.
+* Began to look into how to test the backups. Concluded that it we should start by trying user-mode-linux to boot a filesystem snapshot. Began installing that on vm3.openhatch.org.
