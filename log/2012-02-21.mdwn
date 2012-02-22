@@ -1,0 +1,6 @@
+Captain's log, Tuesday, February 21
+
+* Worked on UMD curriculum, in particular the CLI module, and found a good TA to join us.
+* Asked a possible CLI module leader to join us for it.
+* Discussed dependencies for the event with jesstess and OH-Events.
+* Tried to convince PayPal that we are a legitimate organization. Slowly progressing.
