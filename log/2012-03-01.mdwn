@@ -1,0 +1,8 @@
+Captain's log, March 1, 2012
+
+* Further revised PyCon talk on Boston Python Workshop, based on feedback at Boston Python.
+* Showed revised slides to glyph & co; got further feedback.
+* Created campus-discuss mailing list and added UMD attendees and staff to it.
+* Fixed a few style bugs in redesign, and created "Events" page (with review and sign-off by Karen).
+* Adjusted text of Donate page.
+* Reviewed bugs that are in the 0.12.02 milestone.
