@@ -6,3 +6,4 @@ Captain's log, Mon Mar 19, 2012
 * Sent the first weekly goals email to OH-Board
 * Got our board meeting planned
 * Begun planning my LibrePlanet talk
+* Discussed good first bugs with Mkman and one other prospective code contributor
