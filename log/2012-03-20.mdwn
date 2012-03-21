@@ -1,0 +1,10 @@
+Captain's log, March 20, 2012
+
+* Spent a whole bunch of time prepping a LibrePlanet presentation
+* Went to a fundraiser for an event of a nonprofit a friend is the board; met someone whose cloud-y company might be interested in sponsoring us. We'll see
+* Tried to send sponsors of silly sexist Boston API hackathon event information about OpenHatchy events
+* Talked with one possible sponsor; it might not work out, but I might have helped them find a good person for their new organization's executive director position. Sent a follow-up note with a link to Open Source Comes to Campus curriculum.
+* Sent sponsorship note to another group
+* Sent an email to bkuhn with my notes about his fundraising advice
+* Helped berryp learn about "git add -p", and will merge his pull requests tomorrow first thing.
+* Noticed Daniel's pull requests on docs stuff; will review tomorrow.
