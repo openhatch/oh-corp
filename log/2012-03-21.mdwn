@@ -1,0 +1,5 @@
+Captain's log, March 21, 2012
+
+* Merged and reviewed changes by berryp w/r/t github import
+* Discussed how to make bug import synchronous with berryp
+* Merged and reviewed docs changes by mdaniel
