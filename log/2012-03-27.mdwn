@@ -1,0 +1,23 @@
+Captain's log, Mon through Tue, March 26-27, 2012
+
+Monday March 26:
+
+* Was interviewed by Christina Dunbar-Hester, Assistant Professor of Journalism & Media Studies at Rutgers, about feminism and free software.
+* Asked greg-g to write a PyCon sprints follow-up blog post (:
+* Began scheduling a time with Deb to visit BoA and give her access to the bank acct
+* Reviewed last week's goals, and concluded there is a lot more work to do on those
+* Created a virtual machine on xvm.mit.edu to test OpenHatch backups
+
+Tuesday March 27:
+
+* Pinged Karen about T-shirt next steps
+* Automated 3/4 of the process required for automatic testing of backups
+* Configured our nightly backup job to remove old, stale backups
+* Configured our nightly backup job to remove all but 2 weeks of backups (so we stop filling up our quota)
+* Fixed oh-bugimporters and moved stale bug count from 100% to 37%
+* Discussed on OH-Dev what needs to be done for the missions documentation to get written
+* Spent morning chatting with Michael Stone about his recent email to Peers about learning styles. Particular touchpoints for OpenHatch:
+** When people sign up, we could tell them we want to know about their learning style.
+** The front page could use testimonials.
+** We/I could write a blog post about how the amazingly-successful BPW is just the latest in a long slew of mostly-unsuccessful Python teaching attempts from me. This one is successful, though, and that's because I kept trying.
+
