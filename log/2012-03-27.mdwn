@@ -18,7 +18,7 @@ Tuesday March 27:
 * Filed bugs as appropriate about the bug importers
 * Discussed on OH-Dev what needs to be done for the missions documentation to get written
 * Spent morning chatting with Michael Stone about his recent email to Peers about learning styles. Particular touchpoints for OpenHatch:
-** When people sign up, we could tell them we want to know about their learning style.
-** The front page could use testimonials.
-** We/I could write a blog post about how the amazingly-successful BPW is just the latest in a long slew of mostly-unsuccessful Python teaching attempts from me. This one is successful, though, and that's because I kept trying.
-
+    * When people sign up, we could tell them we want to know about their learning style.
+    * The front page could use testimonials.
+    * We/I could write a blog post about how the amazingly-successful BPW is just the latest in a long slew of mostly-unsuccessful Python teaching attempts from me. This one is successful, though, and that's because I kept trying.
+* Replied to some Tweets that were relevant to us.
