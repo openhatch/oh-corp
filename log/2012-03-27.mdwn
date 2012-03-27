@@ -11,10 +11,11 @@ Monday March 26:
 Tuesday March 27:
 
 * Pinged Karen about T-shirt next steps
-* Automated 3/4 of the process required for automatic testing of backups
-* Configured our nightly backup job to remove old, stale backups
+* Automated 3/4 of the process required for automatic testing of backups, and communicated about this to OH-Dev.
+* Configured our nightly backup job to remove broken backups which are cluttering our space there
 * Configured our nightly backup job to remove all but 2 weeks of backups (so we stop filling up our quota)
 * Fixed oh-bugimporters and moved stale bug count from 100% to 37%
+* Filed bugs as appropriate about the bug importers
 * Discussed on OH-Dev what needs to be done for the missions documentation to get written
 * Spent morning chatting with Michael Stone about his recent email to Peers about learning styles. Particular touchpoints for OpenHatch:
 ** When people sign up, we could tell them we want to know about their learning style.
