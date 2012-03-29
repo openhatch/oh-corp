@@ -1,0 +1,15 @@
+Captain's log, Wednesday March 28
+
+* Looked at logs from today's backup to see that it is properly working
+* Configured it to keep the last 4 weeks' backups, rather than 2, since 4 will fit
+* Began to more seriously plan costs, travel, speakers etc. for RPI Open Source Comes to Campus
+* Reminded OH-Board that hello@ exists and asked if anyone wants to be on it
+* Reviewed Greg Grossmeier's first OH-Publicity blog post, w/r/t PyCon sprints
+* Pinged jesstess to see if she's interested in writing text about BPW branding for OH-Events
+* Traded emails with Mozilla University Recruiting division about working with us on some campus.openhatch.org events, and discovered I have to make some new friends there (:
+* Looked into + discussed with Karen the status of current T-shirt order, and identified next steps for finishing distributing this round of T-shirt orders
+
+On a more personal note:
+
+* Helped freedeb get set up with an IRC bouncer so she can read more IRC (:
+* Bought a new laptop battery so that my laptop does not simply turn *off* when I disconnect it from power (:
