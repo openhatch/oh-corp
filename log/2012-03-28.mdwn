@@ -8,6 +8,7 @@ Captain's log, Wednesday March 28
 * Pinged jesstess to see if she's interested in writing text about BPW branding for OH-Events
 * Traded emails with Mozilla University Recruiting division about working with us on some campus.openhatch.org events, and discovered I have to make some new friends there (:
 * Looked into + discussed with Karen the status of current T-shirt order, and identified next steps for finishing distributing this round of T-shirt orders
+* Discovered the wiki is *still* acting up, and that setting its user ID in php5-fpm to www-data makes it act normal again. Sad, but that's just how it'll be. I'm quite looking forward to the wiki not giving the infamous "Loss of session data" problem again.
 
 On a more personal note:
 
