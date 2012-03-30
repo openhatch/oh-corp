@@ -1,0 +1,12 @@
+Captain's log, March 29, 2012
+
+* Added Deb as a Bank of America co-signer, and got her a debit card
+* Worked further on sending reminders + address requests to T-shirt non-payers
+    * Found a nice Python mail template package, and will use that to send them, to save me time copying+editing templates.
+* Reviewed and pushed latest doc improvements from mdaniel (which are quite exciting)
+* Emailed a friend at Google OSPO to see if we can catch up
+* Diagnosed and fixed further problems with the wiki not saving session data; this seems to be fixed now that I've made the following changes:
+    * Store sessions in /var/lib/php5/sessions/ , not using subdirectories. This fixes a subtle problem where about 50-70% of the time, session data won't be stored (and errors aren't logged, grr)
+    * Use file backend not memcache backend for session data (this probably increases the stability of storage of sessions)
+    * Run the wiki as www-data, not "wiki" user ID
+* Found on IRC + chatted with one Boston-area Twitter-using woman who is a fan of the Boston Python Workshop (:
