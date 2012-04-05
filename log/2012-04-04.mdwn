@@ -1,0 +1,13 @@
+Captain's log, April 4, 2012
+
+* Went to Linux Collaboration Summit to meet with Aaron Williamson
+* Discussed non-profit accounting with bkuhn
+* Discussed OSPO with Jeremy Allison (: (he recommended Tridge's "WOrking on Open Source Software" class)
+* Discussed Outreach Program for Women with bkuhn and Karen Sandler
+* Discussed non-profit structures, and "related business income" of certifications etc. that "B Lab" does with Aaron Williamson
+* Reached out to possible campus.openhatch.org sponsors
+* Reviewed fortnightly goals and how to succeed better at them for the future
+* Discussed "How to open source" event with Rackspace contact
+* Dealt more with getting fully paid for OpenHatch T-shirts
+* Quickly replied to Vivien at Mozilla; have to work more with her tomorrow
+
