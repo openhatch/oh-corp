@@ -8,3 +8,22 @@ Eventually I expect to publish OpenHatch's corporate documents here.
 
 [[!inline pages="page(./log/*) and !*/Discussion" show="10"
 actions=no rootpage="log"]]
+
+## Accounting
+
+We keep our accounting data in git. Access information:
+
+First, get the git repo:
+
+    git clone git@vm3.openhatch.org:oh-accounting.git
+
+Then, 'cd' in and get the ledger balance:
+
+    cd oh-accounting
+    cd ledger-data
+    ledger -f 2012 bal --strict
+
+Possible problem:
+
+* *Don't have ledger installed?* apt-get install ledger, or install it from its own git repo
+* *Don't have permission to do the git-clone?* Talk to Asheesh, and get him to add your SSH key.
