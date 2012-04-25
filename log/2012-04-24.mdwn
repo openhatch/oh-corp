@@ -1,0 +1,24 @@
+Captain's log, Mon Apr 23 - Tue Apr 24
+
+Monday:
+
+* Sent emails to figure out final financial details from RPI event.
+* Tried to install Ledger SMB; failed.
+* Set up 'ledger-cli' by compiling from git.
+* Turned off RPI cloud machine at Rackspace.
+* Subscribed to Rackspace's events so I hear about them.
+* Requested new BoA debit card, since I seem to have an out-of-date one.
+* Answered a lot of really old email.
+* Thanked many weekend staffers from RPI event.
+
+Tuesday:
+
+* Paid tip for Saturday pizza.
+* Recorded RPI financial transactions, and all other non-PayPal transactions so far, in ledger.
+* Deposited one sponsorship check.
+* Asked a friend to sanity-check my use of ledger; he says it seems good.
+* Sent a note to OH Board with status our ledger.
+* Pushed it to git, and enabled sharing of this repo.
+* Scanned a few receipts for the ledger.
+* Updated campus.openhatch.org to reflect end of spring 2012 event series.
+* Wrote and sent fortnightly goals to OH-Board.
