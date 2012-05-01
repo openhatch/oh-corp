@@ -1,0 +1,33 @@
+Captain's log, supplemental
+
+Monday Apr 30:
+
+* Wrote blog post thanking rsync.net for donating backup storage space
+* Finished (assuming it keeps passing!) automatic restore procedure from backups
+* Began writing RPI summary blog post; attempted to see if crschmidt can finish
+* Mentioned more recent WMF plans to Board; got some advice from Deb on hourly rates
+* Pinged Linux Fund
+
+Friday, Apr 27
+
+* Further tested automated restore procedure
+* Uploaded and organized photos from RPI
+* Created and distributed exit survey for RPI attendees
+* Discussed specifics of WMF collaboration with Sumana
+* Did a happy dance about getting my OpenSourceBridge talk accepted
+* Ran into Noirin and VM Brasseur and Schwern at a bar in SF by accident
+
+Thu, Apr 26
+
+* Finished reading Non-Profit Accounting for Dummies
+* Pinged mizmo re: branding for OpenHatch with a Mozilla collaboration, as suggested by Aakash
+* Followed up on an event co-branding possibility with Wikimedia and Weekend Testers
+* Followed up briefly with Matt McCollough of Github Training about working together
+* Discussed non-profits, finances, etc. with Grant Bow of Partimus
+* Attended Ubuntu Release happy hour at Thirsty Bear
+
+Wed, Apr 25
+
+* Asked board about "OpenHatch X"
+* Read much of Non-Profit Accounting for Dummies, learning about
+* Continued to set up ledger
