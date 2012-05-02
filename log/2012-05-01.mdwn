@@ -1,0 +1,13 @@
+Captain's log, May 1, 2012
+
+* Sent proposal for collaboration with Wikimedia to Sumana, for Berlin hackathon
+* Sent follow-up email to Common Crawl folks, whom I met on Monday evening
+* Checked status of Google purchase order; current status is that they intend to pay it and that no action is required, says their web app
+* Sent an email to OH-Events with thoughts about "OpenHatch X"
+* Sent an email to Loic about possible collaboration with FSF France
+* Sent a catch-up email to gregdek and Noirin at Eucalyptus
+* Wrote blog post about backups, thanking rsync.net for donating
+* Sent emails to OH-Dev about backups status
+* Invited my friend gwillen to write a blog post about how his experience contributing to a crossword-solving library went
+* Replied to a prospective OpenHatch contributor, inviting him to join the OH-Dev mailing list
+
