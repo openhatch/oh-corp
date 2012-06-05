@@ -1,0 +1,12 @@
+Captain's log, June 4, 2012
+
+* Pinged Karen about organizing the board meeting
+* Pushed the WMF QA event further along, including sending reminder emails
+* Pinged WMF about July collaboration, and got a tentative yes
+* Pinged WMF about possible Open Source Bridge travel funding, and got a tentative yes
+* Tagged and released 0.12.02 (geez, that was late)
+* Ping jesstess to ask what she's thinking about events
+* Deployed a patch to the diffpatch training mission to fix a bad redirect
+* Bought travel for Open Source Bridge
+* Had a conversation with a shareable.net magazine staffer
+* Possibly got involved for a second Open Source Bridge talk
