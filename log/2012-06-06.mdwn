@@ -1,0 +1,9 @@
+Captain's log, June 6, 2012
+
+* Wrote documentation for running an OpenHatch instance within Heroku
+* Got people to review my Heroku deployment-related pull requests (:
+* Handled more email
+* Wrote a new fortnightly plan for OH-Board
+* Discussed (at length) some website reorganization work with Karen, which I will document in more depth tomorrow
+* Went to Foundation Center event on grant proposal writing (with Karen, who took great notes)
+* Discussed (on OH-Events) the awesome work being done by Dan and co in Boston.rb
