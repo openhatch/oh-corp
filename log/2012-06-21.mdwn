@@ -1,0 +1,5 @@
+Captain's log, June 21, 2012
+
+* Met with Sumana to discuss hackathon details
+* Spent quite some time learning more about the Wikimedia tech community to identify how to make the hackathon great
+* Reviewed and pushed Heroku-related doc improvements
