@@ -37,6 +37,7 @@ Goal 1: Register as foreign corporation
 * Get Certificate of Good Standing
   * Status: Received. (after a request from MA Secretary of State)
     * But the version I have needs to say that we're a nonstock, nonprofit corporation, and this doesn't.
+    * So I just emailed a reply asking if they can add that.
 * Put $30 in the mail with the form.
   * I just requested that Bank of America send me a check proof, which I can then use to buy checks online from a check vendor.
 * Fill out the S^DC-NONPROFIT form, and send it in the mail.
