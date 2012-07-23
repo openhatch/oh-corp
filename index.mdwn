@@ -27,3 +27,22 @@ Possible problem:
 
 * *Don't have ledger installed?* apt-get install ledger, or install it from its own git repo
 * *Don't have permission to do the git-clone?* Talk to Asheesh, and get him to add your SSH key.
+
+## California registration
+
+Here are the steps I'm going through (tracking them here):
+
+Goal 1: Register as foreign corporation
+
+* Get Certificate of Good Standing
+  * Status: Received. (after a request from MA Secretary of State)
+    * But the version I have needs to say that we're a nonstock, nonprofit corporation, and this doesn't.
+* Put $30 in the mail with the form.
+  * I just requested that Bank of America send me a check proof, which I can then use to buy checks online from a check vendor.
+* Fill out the S^DC-NONPROFIT form, and send it in the mail.
+
+Goal 2: File with Franchise Tax Board for nonprofit status
+
+(If we don't do this, we pay $800 in yearly minimum California franchise tax.)
+
+* Fill out FTB 3500, once we're registered. Deal with that post-registration.
