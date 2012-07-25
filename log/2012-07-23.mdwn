@@ -3,4 +3,4 @@ Captain's log, Mon July 23
 * Began the paperwork process (documenting it partially here on corp.openhatch.org) to have the org hire me. (As background, last Tuesday's board meeting contained a decision to hire me, which is fantastic.)
 * Wrote a draft of an exit survey for Wikimania Hackathon attendees.
 * Processed some business cards and got in touch with people who I met at OSCON or in earlier travels.
-
+* Emailed Hackers at Berkeley and JHU ACM about bringing a campus open source workshop there.
