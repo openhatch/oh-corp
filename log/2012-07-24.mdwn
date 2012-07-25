@@ -1,0 +1,8 @@
+Captain's log, July 24, 2012
+
+* Pushed Berkeley campus.openhatch.org event along.
+* Pinged Python SF Meetup organizer to see if we can work together on an event.
+* Deployed Karen's "less" branch (and cleaned up a few issues that cropped up from it).
+* Assigned a task to a possible first-time contributor on IRC.
+* Updated Sumana on post-Hackathon tasks, and set a new deadline of July 31 for those.
+* Received authorization to use Qualtrics for the post-Hackathon survey.
