@@ -1,0 +1,8 @@
+Captain's log, Wed July 25
+
+* Called MA corporations office, only to learn that they won't do what I want
+* Begun to move text for WMF Hackathon laptop setup to mediawiki.org
+* Finished adjusting text of WMF Hackathon exit survey as per feedback on Events list
+* (publish previous day's Captain's Log)
+* Discuss possible tie-ins with Ohloh maintainers
+* Plan a sprint, and request funding from PSF Sprints
