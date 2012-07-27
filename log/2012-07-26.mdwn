@@ -1,0 +1,9 @@
+Captain's log, Thu July 26
+
+* Continued to trudge through Qualtrics UI to get Hackathon exit survey tested and set up
+* Created a Wikimedia Research page about the exit survey, to be extra kosher
+* (Published Wed's captain's log)
+* Sent thread to wikitech-l discussing what should become of the Hackathon Laptop Setup guide.
+* Reviewed and pushed soonick5's patch, finally!
+* Discussed WMF events stuff with Shauna, and Sumana. Did lots of follow-up tasks from that.
+* Did a lot of emailing to make sure we're on good ground for invoicing WMF. (We are.)
