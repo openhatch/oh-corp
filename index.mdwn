@@ -28,6 +28,12 @@ Possible problem:
 * *Don't have ledger installed?* apt-get install ledger, or install it from its own git repo
 * *Don't have permission to do the git-clone?* Talk to Asheesh, and get him to add your SSH key.
 
+## Corporate paperwork, e.g. EIN Confirmation
+
+It's all in this git repo:
+
+    git clone git@vm3.openhatch.org:oh-corporate-documents.git
+
 ## California registration
 
 Here are the steps I'm going through (tracking them here):
