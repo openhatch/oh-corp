@@ -1,0 +1,33 @@
+Captain's logs, collected
+
+Monday, July 30, 2012
+
+* Met up with Mike to discuss the process of hiring me, including CA paperwork.
+* Did a lot of thinking and planning about a shorter campus.openhatch.org event, and thinking aloud about the reasons that we see such Saturday->Sunday drop-off.
+* Did some more antispam on the openhatch.org project pages.
+* Updated blog theme to have a big "Subscribe" RSS link and an email box to enter your email for the announcements list.
+* Did a lot of post-WMF Hackathon thinking.
+
+Tuesday, July 31, 2012
+
+* For WMF, wrote a short note to be included in the monthly tech newsletter about the Hackathon.
+* Did a longer write-up of the Hackathon for wikitech-l.
+* Sent letter to CA Secretary of State registering us as a foreign corporation.
+* Sent invoice to WMF for Hackathon.
+* Requested reimbursement from WMF of Hackathon and Open Source Bridge travel expenses.
+* Discussed what soonick5 what kinds of things to work on, and soonick5's time availability.
+
+Wednesday, August 1, 2012
+
+* Largely took this day off to rest and work on personal projects.
+
+Thursday, August 2, 2012
+
+* Spent much of the day discussing August plan with Karen.
+
+Friday, August 3, 2012
+
+* Shipped OpenHatch newsletter.
+* Helped Karen write a blog post about her attendance at PyLadies SF's Django-related "How to get involved in open source?"
+* WOrked more on August plan, though didn't finish by the end of the day.
+* Sent an email to Peers with a discussion of Selena's post-OSCON idea.
