@@ -1,0 +1,14 @@
+Captain's log, Tue August 7, 2012
+
+* Pinged Cat about a quote for the fundraising blog post
+* Added some nginx fastcgi caching to the blog, only to learn from Jessica that this broke our ability to log into the blog. (In response, I wrote a document about things to test when changing the blog, so I can detect this sort of problem easily.)
+* Emailed a Wikipedian I met at Wikimania who does gender diversity outreach to see if I can get involved there.
+* Read some articles on the suggestion of a friend.
+* Spent a while talking with Mike Linksvayer about possible research topics for OpenHatch to pursue, and what sort of relationship we should have with the various awesome outreach projects that exist in the world, and about the idea of membership.
+* Tentatively ACK'd, and begun to plan, JHU campus.openhatch.org event.
+
+Captain's log, Mon, Aug 6, 2012
+
+* Spent more time revising August plan
+* Provided info to Glenn Willen about a blog post he might be willing to write
+* Chatted with Michael Stone about OpenHatch's relationship to other outreach efforts, and about the idea of membership.
