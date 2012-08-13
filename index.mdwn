@@ -48,7 +48,11 @@ Goal 1: Register as foreign corporation
   * I just requested that Bank of America send me a check proof, which I can then use to buy checks online from a check vendor.
 * Fill out the S^DC-NONPROFIT form, and send it in the mail.
 
-Goal 2: File with Franchise Tax Board for nonprofit status
+Goal 2: Perform our Business Filings with CA
+
+* https://businessfilings.sos.ca.gov/
+
+Goal 3: File with Franchise Tax Board for nonprofit status
 
 (If we don't do this, we pay $800 in yearly minimum California franchise tax.)
 
