@@ -1,0 +1,16 @@
+Captain's log, Mon and Tue Aug 20-21, 2012
+
+Monday:
+
+* Had a conversation about workplace diversity at Akamai (which was actually very interesting)
+* Caught up with Michael Stone more
+* Had IRC meeting with Sumana to discuss the Wikimania Hackathon
+* Met up with Boston Ruby folks (Dan and Rebecca) who were part of the Boston Ruby Workshop organizing team
+
+Tuesday:
+
+* Returned to SF
+* Pushed the fundraising blog post forward, which should be this week's post
+* Began to port the antispam code into something that can live in the main codebase
+* Pushed forward the changes to oh-bugimporters, thanks to johnmorr
+* Dealt with a lot of post-event tasks from WMF Hackathon
