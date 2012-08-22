@@ -14,3 +14,4 @@ Tuesday:
 * Began to port the antispam code into something that can live in the main codebase
 * Pushed forward the changes to oh-bugimporters, thanks to johnmorr
 * Dealt with a lot of post-event tasks from WMF Hackathon
+* Added more money to our nearlyfreespeech.net account, and removed lots of unneeded files from the blog site there
