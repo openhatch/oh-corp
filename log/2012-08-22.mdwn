@@ -1,0 +1,7 @@
+Captain's log, Wed Aug 22, 2012
+
+* Pushed forward on JHU, UIUC, Berkeley, and Wellesley venues for Open Source Comes to Campus
+* Posted an idea on how to improve retention and excitement for projects-day to OH-Events
+* Removed some spam from OH site
+* Pushed forward on oh-bugimporters rewrite
+* Signed a form with WMF so I can be reimbursed for travel expenses
